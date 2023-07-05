@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<style>
+	main {
+		padding: 4vw;
+	}
+</style>
+
+<main>
+	<h1>Posts</h1>
+	<p>Here we will place all the different blog posts</p>
+</main>
