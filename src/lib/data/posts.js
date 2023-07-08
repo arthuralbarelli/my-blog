@@ -4,4 +4,4 @@ export const posts = [
 		title: '...',
 		content: '...'
 	}
-]
+];
