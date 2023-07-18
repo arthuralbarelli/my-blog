@@ -13,7 +13,7 @@ As is typical for most of software developers, we usually start a project with a
 
 I'm doing the same with my blog.
 
-Here i will write about my tech learning journey, including the tips, challenges and everything that I think that could help you in your journey too.
+Here, I will write about my tech learning journey, including the tips, challenges, and everything that I think could help you on your journey.
 
-I hope you like.
+I hope you like it.
 See you soon.
