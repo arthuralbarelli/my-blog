@@ -1,19 +1,29 @@
 ---
 title: Commit Your Code Frequently
 description: I will try to convince my thoughts on why you (and I) should commit more frequently.
-date: '2023-7-17'
+date: '2023-7-26'
 categories:
     - general
-published: false
+published: true
 ---
 
-# Hello, World!
+The best way to show that you are a good programmer or data analyst (or any other code-related job) is solving problems in real-time.
 
-As is typical for most of software developers, we usually start a project with a "Hello, World"!
+But the second way to show your skills is creating personal projects, coding and commiting it frequently.
 
-I'm doing the same with my blog.
+This way you are automatically creating your portfolio and once you also are sharing these projects in a remote repository like GitHub/Gitlab, you are automatically contributing for a boost in your SEO, and also you are creating an opportunity to be known as reference in a specific Stack that you are using.
 
-Here, I will write about my tech learning journey, including the tips, challenges, and everything that I think could help you on your journey.
+## How to commit frequently?
+Many people struggle in commit your code for fear of not pushing "Good Code" (aka Impostor Syndrome).
 
-I hope you like it.
+My tip for you: is commit every little thing that represents ANY improvement or step ahead in your project.
+
+I'm doing this: if you are reading this blog post in its release date, you can notice there is no design in this website. I'll improve it later.
+
+Always think in your remote repository as your resume/portfolio. Start small, but improve it frequently.
+
+Every commited code matters.
+
 See you soon.
+
+If you want to check my GitHub, [click here](https://github.com/arthuralbarelli).
