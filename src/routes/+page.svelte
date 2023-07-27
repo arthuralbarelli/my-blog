@@ -1,23 +1,3 @@
-<script lang="ts">
-	import { formatDate } from '$lib/utils'
-	import * as config from '$lib/config'
+<h1>Hi, I'm Arthur Albarelli!</h1>
 
-	export let data
-</script>
-
-<svelte:head>
-	<title>{config.title}</title>
-</svelte:head>
-
-<!-- Posts -->
-<section>
-	<ul class="posts">
-		{#each data.posts as post}
-			<li class="post">
-				<a href={post.slug} class="title">{post.title}</a>
-				<p class="date">{formatDate(post.date)}</p>
-				<p class="description">{post.description}</p>
-			</li>
-		{/each}
-	</ul>
-</section>
+<p>I am data analyst with experience in programming languages like Python and Scala.</p>
