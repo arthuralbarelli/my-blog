@@ -3,7 +3,9 @@ title: Commit Your Code Frequently
 description: I will try to convince my thoughts on why you (and I) should commit more frequently.
 date: '2023-7-26'
 categories:
-    - general
+    - git
+    - github
+    - programming
 published: true
 ---
 
